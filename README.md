@@ -24,6 +24,6 @@ C. Strobbe, S. Salas Cordero and R. Vingerhoeds, "Open-source CubeSat MBSE Appro
   doi={coming soon...}}
 ```
 
-# License
+## License
 
 Apache License, Version 2.0
