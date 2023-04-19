@@ -14,7 +14,7 @@ C. Strobbe, S. Salas Cordero and R. Vingerhoeds, "Open-source CubeSat MBSE Appro
 **BibTeX**
 ```
 @INPROCEEDINGS{PowerSsMBSE2023,
-  author={Strobb, Charlotte and Salas Cordero, Sophia and Vingerhoeds, Rob},
+  author={Strobbe, Charlotte and Salas Cordero, Sophia and Vingerhoeds, Rob},
   booktitle={IEEE International Systems Conference (SYSCON)}, 
   title={Open-source CubeSat MBSE Approach to Address Traceability: Power Subsystem}, 
   year={2023},
