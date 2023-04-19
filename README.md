@@ -4,7 +4,7 @@ For more information refer to the paper "Open-source CubeSat MBSE Approach to Ad
 
 ## Citing
 
-When writing about this example, cite the following paper:
+When writing about/referring to this example, cite the following paper:
 
 **Plain Text**
 ```
@@ -24,6 +24,6 @@ C. Strobbe, S. Salas Cordero and R. Vingerhoeds, "Open-source CubeSat MBSE Appro
   doi={coming soon...}}
 ```
 
-# License
+## License
 
 Apache License, Version 2.0
