@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<uml:Profile xmi:version="20131001" xmlns:xmi="http://www.omg.org/spec/XMI/20131001" xmlns:ecore="http://www.eclipse.org/emf/2002/Ecore" xmlns:uml="http://www.eclipse.org/uml2/5.0.0/UML" xmi:id="_N323IDQFEe2E08YYcUEY5A" name="AssumptionProfile">
+  <eAnnotations xmi:type="ecore:EAnnotation" xmi:id="_h3i4sDQFEe2E08YYcUEY5A" source="http://www.eclipse.org/uml2/2.0.0/UML">
+    <contents xmi:type="ecore:EPackage" xmi:id="_h3jfwDQFEe2E08YYcUEY5A" name="AssumptionProfile" nsURI="http:///schemas/AssumptionProfile/_h3hqkDQFEe2E08YYcUEY5A/0" nsPrefix="AssumptionProfile">
+      <eAnnotations xmi:type="ecore:EAnnotation" xmi:id="_h3jfwTQFEe2E08YYcUEY5A" source="http://www.eclipse.org/uml2/4.1.0/UML">
+        <references xmi:type="ecore:EPackage" href="http://www.eclipse.org/papyrus/sysml/1.6/SysML#//blocks"/>
+      </eAnnotations>
+      <eAnnotations xmi:type="ecore:EAnnotation" xmi:id="_h3kG0TQFEe2E08YYcUEY5A" source="PapyrusVersion">
+        <details xmi:type="ecore:EStringToStringMapEntry" xmi:id="_h3kG0jQFEe2E08YYcUEY5A" key="Version" value="0.0.1"/>
+        <details xmi:type="ecore:EStringToStringMapEntry" xmi:id="_h3kG0zQFEe2E08YYcUEY5A" key="Comment" value=""/>
+        <details xmi:type="ecore:EStringToStringMapEntry" xmi:id="_h3kG1DQFEe2E08YYcUEY5A" key="Copyright" value=""/>
+        <details xmi:type="ecore:EStringToStringMapEntry" xmi:id="_h3kG1TQFEe2E08YYcUEY5A" key="Date" value="2022-09-14"/>
+        <details xmi:type="ecore:EStringToStringMapEntry" xmi:id="_h3kG1jQFEe2E08YYcUEY5A" key="Author" value=""/>
+      </eAnnotations>
+      <eClassifiers xmi:type="ecore:EClass" xmi:id="_h3jfwjQFEe2E08YYcUEY5A" name="Assumption">
+        <eAnnotations xmi:type="ecore:EAnnotation" xmi:id="_h3jfwzQFEe2E08YYcUEY5A" source="http://www.eclipse.org/uml2/2.0.0/UML" references="_c743ADQFEe2E08YYcUEY5A"/>
+        <eSuperTypes xmi:type="ecore:EClass" href="http://www.eclipse.org/papyrus/sysml/1.6/SysML#//blocks/Block"/>
+      </eClassifiers>
+    </contents>
+  </eAnnotations>
+  <packageImport xmi:type="uml:PackageImport" xmi:id="_N7Z6YDQFEe2E08YYcUEY5A">
+    <importedPackage xmi:type="uml:Model" href="pathmap://UML_LIBRARIES/UMLPrimitiveTypes.library.uml#_0"/>
+  </packageImport>
+  <packageImport xmi:type="uml:PackageImport" xmi:id="_N7ahcDQFEe2E08YYcUEY5A">
+    <importedPackage xmi:type="uml:Model" href="pathmap://UML_METAMODELS/UML.metamodel.uml#_0"/>
+  </packageImport>
+  <packageImport xmi:type="uml:PackageImport" xmi:id="_XXk54DQFEe2E08YYcUEY5A">
+    <importedPackage xmi:type="uml:Profile" href="pathmap://SysML16_PROFILES/SysML.profile.uml#SysML.package_packagedElement_Blocks"/>
+  </packageImport>
+  <packagedElement xmi:type="uml:Stereotype" xmi:id="_c743ADQFEe2E08YYcUEY5A" name="Assumption">
+    <generalization xmi:type="uml:Generalization" xmi:id="_fKakEDQFEe2E08YYcUEY5A">
+      <general xmi:type="uml:Stereotype" href="pathmap://SysML16_PROFILES/SysML.profile.uml#SysML.package_packagedElement_Blocks.stereotype_packagedElement_Block"/>
+    </generalization>
+  </packagedElement>
+</uml:Profile>
